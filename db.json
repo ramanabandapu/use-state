@@ -1,0 +1,96 @@
+{
+  "countries": [
+    {
+      "name": "Malawi",
+      "id": "1"
+    },
+    {
+      "name": "Rwanda",
+      "id": "2"
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "id": "3"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "id": "4"
+    },
+    {
+      "name": "Norway",
+      "id": "5"
+    },
+    {
+      "name": "Nauru",
+      "id": "6"
+    },
+    {
+      "name": "Republic of Korea",
+      "id": "7"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "id": "8"
+    },
+    {
+      "name": "Svalbard & Jan Mayen Islands",
+      "id": "9"
+    },
+    {
+      "name": "Estonia",
+      "id": "10"
+    },
+    {
+      "name": "Canada",
+      "id": "11"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "id": "12"
+    },
+    {
+      "name": "my country",
+      "id": "9xfh5hI"
+    },
+    {
+      "name": "india",
+      "id": "NS_ak9Y"
+    },
+    {
+      "name": "india",
+      "id": "a1reeoh"
+    }
+  ],
+  "cities": [
+    {
+      "city_name": "anantpur",
+      "population": "200",
+      "country_name": "Bosnia and Herzegovina",
+      "id": 1
+    },
+    {
+      "city_name": "anantpur",
+      "population": "900",
+      "country_name": "india",
+      "id": 2
+    },
+    {
+      "city_name": "anantpur",
+      "population": "900",
+      "country_name": "india",
+      "id": 3
+    },
+    {
+      "city_name": "dmm",
+      "population": "600",
+      "country_name": "india",
+      "id": 4
+    },
+    {
+      "city_name": "ttd",
+      "population": "700",
+      "country_name": "india",
+      "id": 5
+    }
+  ]
+}
